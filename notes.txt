@@ -1,0 +1,14 @@
+
+https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
+Lec 2-Done
+
+-- Spring Framework - an enterprise JAVA framework which lets you write enterprise JAVA application
+
+-- Spring boot - way in which you can bootstrap or quickly startup a simple/complex spring application
+	- easy to start
+	- build all the way to production
+	- end-to-end production ready, that we can create in a matter of seconds
+	- many people's favorite way of creating spring applications 
+	
+- we are gonna be building an end to end spring application
+- we are gonna be building an end to end restful API (controller, end-points, database), end to end flow
